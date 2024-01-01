@@ -1,16 +1,14 @@
-### Hi there 👋
+# Scott McIntire's Profile
 
-<!--
-**scottrsm/scottrsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I Have an Eclectic Collection of Programming Projects
+Most recently, I am working on projects in the language **Julia** as project work is, I believe,
+is necessary to get an understanding of a given language.
 
-Here are some ideas to get you started:
+## I Have an Interest in Mathematical Education: Repo -- math
+- There is a non-standard calculus book which compares and contrasts discrete and conntinuous calculus.
+- Several papers describing mathematical concepts that are traditionally poorly explained.
+- A few new results.
+- Some alternative proofs of elementary facts along with some conjectures based on programming experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+I have worked in the Finance industry most recently.

@@ -4,7 +4,7 @@
 Most recently, I am working on projects in the language **Julia** (repo julia) as project work is, I believe,
 necessary to gain an understanding of a given language.
 
-## I Have an Interest in Mathematical Education
+## I Have an Interest in Mathematics Education
 - Repo: math.
 - There is a non-standard calculus book which compares and contrasts discrete and conntinuous calculus.
 - Several papers describing mathematical concepts that are traditionally poorly explained.

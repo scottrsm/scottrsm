@@ -2,7 +2,7 @@
 
 ## I Have an Eclectic Collection of Programming Projects
 Most recently, I am working on projects in the language **Julia** (repo julia) as project work is, I believe,
-necessary to get an understanding of a given language.
+necessary to gain an understanding of a given language.
 
 ## I Have an Interest in Mathematical Education
 - Repo: math.

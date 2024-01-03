@@ -12,4 +12,4 @@ necessary to gain an understanding of a given language.
 - Some alternative proofs of elementary facts along with some conjectures based on programming experiments.
 
 ## Background
-I have worked in the Finance industry as a quant most recently, but I have also worked in Academia and in the tech industry.
+I have worked in the Finance industry as a *quant* most recently, but I have also worked in Academia and in the tech industry.

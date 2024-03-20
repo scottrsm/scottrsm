@@ -1,7 +1,7 @@
 # Scott McIntire's Profile
 
 ## I Have an Eclectic Collection of Programming Projects
-Most recently, I am working on projects in the language **Julia** (repo julia) as project work is, I believe,
+Most recently, I am working on projects using the language **Julia** (repo julia) as project work is, I believe,
 necessary to gain an understanding of a given language.
 
 ## I Have an Interest in Mathematics Education
